@@ -1,6 +1,6 @@
-import telethon.tl.types
-from telethon.tl.types import InputPeerChat,InputFileLocation
-from telethon import TelegramClient, events, sync
+
+
+
 import asyncio
 
 async def download_media(api_id,api_hash,bot_token,chat_id, message_id):
