@@ -5,9 +5,9 @@ import re
 import json
 import urllib
 from bs4 import BeautifulSoup
-import requests_toolbelt as rt
-from requests_toolbelt import MultipartEncoderMonitor
-from requests_toolbelt import MultipartEncoder
+
+
+
 from functools import partial
 import uuid
 import time
