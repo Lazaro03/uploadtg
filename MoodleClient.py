@@ -14,7 +14,7 @@ import time
 import XDLink
 from ProxyCloud import ProxyCloud
 import socket
-import socks
+impor
 import asyncio
 
 import threading
